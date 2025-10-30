@@ -106,6 +106,7 @@ print(f"\n" + "=" * 60)
 print("FINAL RESULTS")
 print("=" * 60)
 
+
 print(f"Original list of dictionaries:")
 for i, dict_item in enumerate(list_of_dicts):
     print(f"  Dict {i + 1}: {dict_item}")
